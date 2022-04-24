@@ -3679,7 +3679,7 @@ const no = nt({ components: { ImageInfoCard: to } }),
     "div",
     {
       class:
-        "bg-[url('/assets/title_img.svg')] aspect-video h-screen w-[100%] bg-no-repeat bg-cover flex justify-center items-center",
+        "bg-[url('src/assets/title_img.svg')] aspect-video h-screen w-[100%] bg-no-repeat bg-cover flex justify-center items-center",
     },
     [
       $("div", null, [
@@ -3790,7 +3790,7 @@ const bo = nt({ components: { ImageLink: _o } }),
     "div",
     {
       class:
-        "bg-[url('/assets/title_img.svg')] aspect-video h-screen w-[100%] bg-no-repeat bg-cover flex justify-center items-center",
+        "bg-[url('src/assets/title_img.svg')] aspect-video h-screen w-[100%] bg-no-repeat bg-cover flex justify-center items-center",
     },
     [
       $("div", null, [
