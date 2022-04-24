@@ -3814,7 +3814,7 @@ function yo(e, t, n, s, i, r) {
           ie(l, {
             class: "m-auto",
             text: "Discord",
-            url: "/src/assets/discord.svg",
+            url: "/assets/discord.svg",
             link: "https://discordapp.com/users/726448322939715594",
           }),
         ]),
