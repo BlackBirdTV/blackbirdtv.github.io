@@ -3684,7 +3684,7 @@ const no = nt({ components: { ImageInfoCard: to } }),
     [
       $("div", null, [
         $("h1", null, "Think it? Try it."),
-        $("h5", null, "And propably fail it."),
+        $("h5", null, "And probably fail it."),
       ]),
     ],
     -1
